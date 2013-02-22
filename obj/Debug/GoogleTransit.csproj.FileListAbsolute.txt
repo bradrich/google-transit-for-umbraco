@@ -1,0 +1,33 @@
+C:\Users\Brad Richardson\Desktop\GoogleTransit\GoogleTransit\bin\GoogleTransit.dll
+C:\Users\Brad Richardson\Desktop\GoogleTransit\GoogleTransit\bin\GoogleTransit.pdb
+C:\Users\Brad Richardson\Desktop\GoogleTransit\GoogleTransit\bin\AjaxControlToolkit.dll
+C:\Users\Brad Richardson\Desktop\GoogleTransit\GoogleTransit\bin\businesslogic.dll
+C:\Users\Brad Richardson\Desktop\GoogleTransit\GoogleTransit\bin\cms.dll
+C:\Users\Brad Richardson\Desktop\GoogleTransit\GoogleTransit\bin\controls.dll
+C:\Users\Brad Richardson\Desktop\GoogleTransit\GoogleTransit\bin\CookComputing.XmlRpcV2.dll
+C:\Users\Brad Richardson\Desktop\GoogleTransit\GoogleTransit\bin\DotNetOpenMail.dll
+C:\Users\Brad Richardson\Desktop\GoogleTransit\GoogleTransit\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Brad Richardson\Desktop\GoogleTransit\GoogleTransit\bin\interfaces.dll
+C:\Users\Brad Richardson\Desktop\GoogleTransit\GoogleTransit\bin\Ionic.Zip.dll
+C:\Users\Brad Richardson\Desktop\GoogleTransit\GoogleTransit\bin\Lucene.Net.dll
+C:\Users\Brad Richardson\Desktop\GoogleTransit\GoogleTransit\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\Brad Richardson\Desktop\GoogleTransit\GoogleTransit\bin\MySql.Data.dll
+C:\Users\Brad Richardson\Desktop\GoogleTransit\GoogleTransit\bin\TidyNet.dll
+C:\Users\Brad Richardson\Desktop\GoogleTransit\GoogleTransit\bin\umbraco.DataLayer.dll
+C:\Users\Brad Richardson\Desktop\GoogleTransit\GoogleTransit\bin\umbraco.dll
+C:\Users\Brad Richardson\Desktop\GoogleTransit\GoogleTransit\bin\umbraco.editorControls.dll
+C:\Users\Brad Richardson\Desktop\GoogleTransit\GoogleTransit\bin\umbraco.providers.dll
+C:\Users\Brad Richardson\Desktop\GoogleTransit\GoogleTransit\bin\umbraco.XmlSerializers.dll
+C:\Users\Brad Richardson\Desktop\GoogleTransit\GoogleTransit\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brad Richardson\Desktop\GoogleTransit\GoogleTransit\obj\Debug\GoogleTransit.dll
+C:\Users\Brad Richardson\Desktop\GoogleTransit\GoogleTransit\obj\Debug\GoogleTransit.pdb
+Z:\Brad On My Mac\Desktop\GoogleTransit\GoogleTransit\bin\GoogleTransit.dll
+Z:\Brad On My Mac\Desktop\GoogleTransit\GoogleTransit\bin\GoogleTransit.pdb
+Z:\Brad On My Mac\Desktop\GoogleTransit\GoogleTransit\obj\Debug\ResolveAssemblyReference.cache
+Z:\Brad On My Mac\Desktop\GoogleTransit\GoogleTransit\obj\Debug\GoogleTransit.dll
+Z:\Brad On My Mac\Desktop\GoogleTransit\GoogleTransit\obj\Debug\GoogleTransit.pdb
+Z:\Brad On My Mac\Projects\GoogleTransit\GoogleTransit\bin\GoogleTransit.dll
+Z:\Brad On My Mac\Projects\GoogleTransit\GoogleTransit\bin\GoogleTransit.pdb
+Z:\Brad On My Mac\Projects\GoogleTransit\GoogleTransit\obj\Debug\ResolveAssemblyReference.cache
+Z:\Brad On My Mac\Projects\GoogleTransit\GoogleTransit\obj\Debug\GoogleTransit.dll
+Z:\Brad On My Mac\Projects\GoogleTransit\GoogleTransit\obj\Debug\GoogleTransit.pdb
